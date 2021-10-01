@@ -57,7 +57,7 @@ config :petals_drag_n_drop, PetalsDragNDropWeb.Endpoint,
     patterns: [
       ~r"priv/static/.*(js|css|png|jpeg|jpg|gif|svg)$",
       ~r"priv/gettext/.*(po)$",
-      ~r"lib/petals_drag_n_drop_web/(live|views)/.*(ex)$",
+      ~r"lib/petals_drag_n_drop_web/(live|views)/.*(ex|js)$",
       ~r"lib/petals_drag_n_drop_web/templates/.*(eex)$"
     ]
   ]

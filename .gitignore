@@ -29,3 +29,4 @@ petals_drag_n_drop-*.tar
 npm-debug.log
 /assets/node_modules/
 
+/assets/js/_hooks/
